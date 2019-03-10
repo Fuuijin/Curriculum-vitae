@@ -2,11 +2,13 @@
 
 ## Personal
 
-|![Profile Picture](img/Profile.png)||
-|---|---|---|---|
-|Name|Mattias Ross|
-|Age|35|
-|Location|Gotheburg, Sweden|
+![Profile Picture](img/Profile.png)
+
+**Name:** Mattias Ross
+
+**Age:** 35
+
+**Location:** Gotheburg, Sweden
 
 ---------
 
